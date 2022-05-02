@@ -1,0 +1,26 @@
+body {
+  background-color: beige;
+}
+
+
+p {
+  background-color: white;
+  padding:10px;
+  border:5px solid black;
+  margin: 10px;
+}
+
+
+ul {
+  background-color: white;
+  padding: 10px;
+  border:5px solid black;
+  margin: 10px;
+  width: 200px;
+}
+
+
+img {
+  max-width: 100%;
+  height: auto;
+}

@@ -1,0 +1,16 @@
+body {
+  margin: 0;
+}
+.splide {
+  background-color: white;
+  height: 125vh;
+}
+
+.splide__slide {
+  padding:60px;
+}
+
+.splide__slide img {
+  width: 100%;
+  height: auto;
+}
